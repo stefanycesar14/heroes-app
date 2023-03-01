@@ -1,4 +1,4 @@
-import { AuthProvider } from "./auth/context";
+import { AuthProvider } from "./auth/context/authProvider";
 import { AppRouter } from "./router/AppRouter";
 
 export const HeroesApp = () => {
